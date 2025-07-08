@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="299.75 -820.25 500.5 212.10004" width="500.5" height="212.10004">
+  <defs/>
+  <g id="Descriptors" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>Descriptors</title>
+    <g id="Descriptors_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <title>Audio Subslot</title>
+        <rect x="300" y="-820" width="400" height="30" fill="#c0ffff"/>
+        <rect x="300" y="-820" width="400" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <clipPath id="clip_path">
+          <rect x="0" y="0" width="400" height="30" fill="#c0ffff"/>
+        </clipPath>
+        <text clip-path="url(#clip_path)" transform="translate(300 -820)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="5" y="18" xml:space="preserve">Device Descriptor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <title>Audio Subslot</title>
+        <rect x="300" y="-790" width="500" height="181.60004" fill="white"/>
+        <rect x="300" y="-790" width="500" height="181.60004" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <clipPath id="clip_path_2">
+          <rect x="0" y="0" width="500" height="181.60004" fill="white"/>
+        </clipPath>
+        <text clip-path="url(#clip_path_2)" transform="translate(300 -790)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="15" xml:space="preserve">idVendor           = 0x1209 # https://pid.codes/1209/</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="29.400005" xml:space="preserve">idProduct          = 0x0001 # pid.codes Test PID 1</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="57.80001" xml:space="preserve">iManufacturer      = &quot;LUNA&quot;</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="72.200015" xml:space="preserve">iProduct           = &quot;USB Audio Class 2 Device Tutorial&quot;</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="86.60002" xml:space="preserve">iSerialNumber      = &quot;no serial&quot;</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="115.00002" xml:space="preserve">bDeviceClass       = 0xef # Miscellaneous</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="129.40003" xml:space="preserve">bDeviceSubclass    = 0x02 # Common Class</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="143.80003" xml:space="preserve">bDeviceProtocol    = 0x01 # Interface Association</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="172.20004" xml:space="preserve">bNumConfigurations = 1</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

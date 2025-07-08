@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="99.75 400 2750.5 370.25" width="2750.5" height="370.25">
+  <defs/>
+  <g id="Protocol" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>Protocol</title>
+    <g id="Protocol_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_2081">
+        <line x1="1020" y1="500" x2="860" y2="600" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_2082">
+        <line x1="1180" y1="500" x2="1760" y2="600" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Group_2187">
+        <g id="Group_1723">
+          <g id="Graphic_1731">
+            <rect x="180" y="480" width="80" height="20" fill="#ff8080"/>
+            <rect x="180" y="480" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            <text transform="translate(185 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">PID SOF</tspan>
+            </text>
+          </g>
+          <g id="Graphic_1730">
+            <rect x="260" y="480" width="110" height="20" fill="#ffff80"/>
+            <rect x="260" y="480" width="110" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            <text transform="translate(265 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">Frame Number </tspan>
+              <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="10" fill="black" y="8" xml:space="preserve">23</tspan>
+            </text>
+          </g>
+          <g id="Graphic_1729">
+            <rect x="370" y="480" width="50" height="20" fill="#80ff80"/>
+            <rect x="370" y="480" width="50" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            <text transform="translate(375 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">CRC5</tspan>
+            </text>
+          </g>
+          <g id="Graphic_1728">
+            <rect x="420" y="480" width="30" height="20" fill="aqua"/>
+            <rect x="420" y="480" width="30" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            <text transform="translate(425 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">EOP</tspan>
+            </text>
+          </g>
+          <g id="Group_1724">
+            <g id="Graphic_1727">
+              <path d="M 180 480 L 180 500 L 148 500 C 152 494 136 486 144 480 Z" fill="#8080ff"/>
+              <path d="M 180 480 L 180 500 L 148 500 C 152 494 136 486 144 480 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Graphic_1726">
+              <path d="M 100 500 L 100 480 L 132 480 C 128 486 144 494 136 500 Z" fill="#8080ff"/>
+              <path d="M 100 500 L 100 480 L 132 480 C 128 486 144 494 136 500 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Graphic_1725">
+              <text transform="translate(105 484)" fill="black">
+                <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">SYNC</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_1740">
+          <rect x="640" y="480" width="70" height="20" fill="#ffff80"/>
+          <rect x="640" y="480" width="70" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(645 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">ADDR</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1739">
+          <rect x="710" y="480" width="40" height="20" fill="#ffff80"/>
+          <rect x="710" y="480" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(715 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">ENDP</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1738">
+          <rect x="750" y="480" width="50" height="20" fill="#80ff80"/>
+          <rect x="750" y="480" width="50" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(755 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">CRC5</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1737">
+          <rect x="800" y="480" width="30" height="20" fill="aqua"/>
+          <rect x="800" y="480" width="30" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(805 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">EOP</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1736">
+          <rect x="560" y="480" width="80" height="20" fill="#ff8080"/>
+          <rect x="560" y="480" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(565 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">PID OUT</tspan>
+          </text>
+        </g>
+        <g id="Group_1732">
+          <g id="Graphic_1735">
+            <path d="M 560 480 L 560 500 L 528 500 C 532 494 516 486 524 480 Z" fill="#8080ff"/>
+            <path d="M 560 480 L 560 500 L 528 500 C 532 494 516 486 524 480 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Graphic_1734">
+            <path d="M 480 500 L 480 480 L 512 480 C 508 486 524 494 516 500 Z" fill="#8080ff"/>
+            <path d="M 480 500 L 480 480 L 512 480 C 508 486 524 494 516 500 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Graphic_1733">
+            <text transform="translate(485 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">SYNC</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Graphic_1750">
+          <rect x="940" y="480" width="80" height="20" fill="#ff8080"/>
+          <rect x="940" y="480" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(945 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">PID DATA0</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1749">
+          <rect x="1180" y="480" width="160" height="20" fill="#80ff80"/>
+          <rect x="1180" y="480" width="160" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1185 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">CRC16</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1748">
+          <rect x="1340" y="480" width="30" height="20" fill="aqua"/>
+          <rect x="1340" y="480" width="30" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1345 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">EOP</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1747">
+          <path d="M 1180 480 L 1180 500 L 1116 500 C 1124 494 1092 486 1108 480 Z" fill="#ffff80"/>
+          <path d="M 1180 480 L 1180 500 L 1116 500 C 1124 494 1092 486 1108 480 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_1746">
+          <path d="M 1020 500 L 1020 480 L 1092 480 C 1083 486 1119 494 1101 500 Z" fill="#ffff80"/>
+          <path d="M 1020 500 L 1020 480 L 1092 480 C 1083 486 1119 494 1101 500 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_1745">
+          <text transform="translate(1025 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">Data</tspan>
+          </text>
+        </g>
+        <g id="Group_1741">
+          <g id="Graphic_1744">
+            <path d="M 940 480 L 940 500 L 908 500 C 912 494 896 486 904 480 Z" fill="#8080ff"/>
+            <path d="M 940 480 L 940 500 L 908 500 C 912 494 896 486 904 480 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Graphic_1743">
+            <path d="M 860 500 L 860 480 L 892 480 C 888 486 904 494 896 500 Z" fill="#8080ff"/>
+            <path d="M 860 500 L 860 480 L 892 480 C 888 486 904 494 896 500 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Graphic_1742">
+            <text transform="translate(865 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">SYNC</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Graphic_1769">
+          <rect x="1560" y="480" width="70" height="20" fill="#ffff80"/>
+          <rect x="1560" y="480" width="70" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1565 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">ADDR</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1768">
+          <rect x="1630" y="480" width="40" height="20" fill="#ffff80"/>
+          <rect x="1630" y="480" width="40" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1635 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">ENDP</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1767">
+          <rect x="1670" y="480" width="50" height="20" fill="#80ff80"/>
+          <rect x="1670" y="480" width="50" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1675 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">CRC5</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1766">
+          <rect x="1720" y="480" width="30" height="20" fill="aqua"/>
+          <rect x="1720" y="480" width="30" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1725 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">EOP</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1765">
+          <rect x="1480" y="480" width="80" height="20" fill="#ff8080"/>
+          <rect x="1480" y="480" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1485 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">PID IN</tspan>
+          </text>
+        </g>
+        <g id="Group_1761">
+          <g id="Graphic_1764">
+            <path d="M 1480 480 L 1480 500 L 1448 500 C 1452 494 1436 486 1444 480 Z" fill="#8080ff"/>
+            <path d="M 1480 480 L 1480 500 L 1448 500 C 1452 494 1436 486 1444 480 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Graphic_1763">
+            <path d="M 1400 500 L 1400 480 L 1432 480 C 1428 486 1444 494 1436 500 Z" fill="#8080ff"/>
+            <path d="M 1400 500 L 1400 480 L 1432 480 C 1428 486 1444 494 1436 500 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Graphic_1762">
+            <text transform="translate(1405 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">SYNC</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Graphic_1760">
+          <rect x="1860" y="480" width="80" height="20" fill="#ff8080"/>
+          <rect x="1860" y="480" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1865 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">PID DATA0</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1759">
+          <rect x="2100" y="480" width="160" height="20" fill="#80ff80"/>
+          <rect x="2100" y="480" width="160" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(2105 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">CRC16</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1758">
+          <rect x="2260" y="480" width="30" height="20" fill="aqua"/>
+          <rect x="2260" y="480" width="30" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(2265 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">EOP</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1757">
+          <path d="M 2100 480 L 2100 500 L 2036 500 C 2044 494 2012 486 2028 480 Z" fill="#ffff80"/>
+          <path d="M 2100 480 L 2100 500 L 2036 500 C 2044 494 2012 486 2028 480 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_1756">
+          <path d="M 1940 500 L 1940 480 L 2012 480 C 2003 486 2039 494 2021 500 Z" fill="#ffff80"/>
+          <path d="M 1940 500 L 1940 480 L 2012 480 C 2003 486 2039 494 2021 500 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_1755">
+          <text transform="translate(1945 484)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">Data</tspan>
+          </text>
+        </g>
+        <g id="Group_1751">
+          <g id="Graphic_1754">
+            <path d="M 1860 480 L 1860 500 L 1828 500 C 1832 494 1816 486 1824 480 Z" fill="#8080ff"/>
+            <path d="M 1860 480 L 1860 500 L 1828 500 C 1832 494 1816 486 1824 480 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Graphic_1753">
+            <path d="M 1780 500 L 1780 480 L 1812 480 C 1808 486 1824 494 1816 500 Z" fill="#8080ff"/>
+            <path d="M 1780 500 L 1780 480 L 1812 480 C 1808 486 1824 494 1816 500 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Graphic_1752">
+            <text transform="translate(1785 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">SYNC</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Graphic_2083">
+          <text transform="translate(105 405.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="16" fill="black" x="0" y="13" xml:space="preserve">Audio Stream Framing</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2086">
+          <rect x="100" y="470" width="350" height="10" fill="#ccc"/>
+          <rect x="100" y="470" width="350" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(103 471.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="125.944" y="6" xml:space="preserve">Start of Frame Number 23</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2087">
+          <rect x="480" y="470" width="350" height="10" fill="#ccc"/>
+          <rect x="480" y="470" width="350" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(483 471.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="74.812" y="6" xml:space="preserve">OUT Transfer from host to device ADDR endpoint ENDP </tspan>
+          </text>
+        </g>
+        <g id="Graphic_2088">
+          <rect x="860" y="470" width="510" height="10" fill="#ccc"/>
+          <rect x="860" y="470" width="510" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(863 471.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="243.852" y="6" xml:space="preserve">Data</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2089">
+          <rect x="1400" y="470" width="350" height="10" fill="#ccc"/>
+          <rect x="1400" y="470" width="350" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1403 471.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="78.24" y="6" xml:space="preserve">IN Transfer from device ADDR endpoint ENDP to host</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2090">
+          <rect x="1780" y="470" width="510" height="10" fill="#ccc"/>
+          <rect x="1780" y="470" width="510" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1783 471.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="243.852" y="6" xml:space="preserve">Data</tspan>
+          </text>
+        </g>
+        <g id="Group_2091">
+          <g id="Graphic_2099">
+            <rect x="2580" y="480" width="80" height="20" fill="#ff8080"/>
+            <rect x="2580" y="480" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            <text transform="translate(2585 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">PID SOF</tspan>
+            </text>
+          </g>
+          <g id="Graphic_2098">
+            <rect x="2660" y="480" width="110" height="20" fill="#ffff80"/>
+            <rect x="2660" y="480" width="110" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            <text transform="translate(2665 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">Frame Number 23</tspan>
+            </text>
+          </g>
+          <g id="Graphic_2097">
+            <rect x="2770" y="480" width="50" height="20" fill="#80ff80"/>
+            <rect x="2770" y="480" width="50" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            <text transform="translate(2775 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">CRC5</tspan>
+            </text>
+          </g>
+          <g id="Graphic_2096">
+            <rect x="2820" y="480" width="30" height="20" fill="aqua"/>
+            <rect x="2820" y="480" width="30" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            <text transform="translate(2825 484)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">EOP</tspan>
+            </text>
+          </g>
+          <g id="Group_2092">
+            <g id="Graphic_2095">
+              <path d="M 2580 480 L 2580 500 L 2548 500 C 2552 494 2536 486 2544 480 Z" fill="#8080ff"/>
+              <path d="M 2580 480 L 2580 500 L 2548 500 C 2552 494 2536 486 2544 480 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Graphic_2094">
+              <path d="M 2500 500 L 2500 480 L 2532 480 C 2528 486 2544 494 2536 500 Z" fill="#8080ff"/>
+              <path d="M 2500 500 L 2500 480 L 2532 480 C 2528 486 2544 494 2536 500 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Graphic_2093">
+              <text transform="translate(2505 484)" fill="black">
+                <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">SYNC</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_2101">
+          <rect x="2500" y="470" width="350" height="10" fill="#ccc"/>
+          <rect x="2500" y="470" width="350" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(2503 471.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="125.944" y="6" xml:space="preserve">Start of Frame Number 23</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_2186">
+        <g id="Graphic_2061">
+          <path d="M 1290 620 L 1290 600 L 1314 600 C 1311 606 1323 614 1317 620 Z" fill="white"/>
+          <path d="M 1290 620 L 1290 600 L 1314 600 C 1311 606 1323 614 1317 620 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_1828">
+          <rect x="860" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="860" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(863 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1829">
+          <rect x="880" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="880" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(883 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">83</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1830">
+          <rect x="900" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="900" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(903 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1833">
+          <rect x="920" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="920" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(923 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1832">
+          <rect x="940" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="940" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(943 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1831">
+          <rect x="960" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="960" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(963 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">9B</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1836">
+          <rect x="980" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="980" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(983 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">E0</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1835">
+          <rect x="1e3" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1e3" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1003 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1844">
+          <rect x="1060" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1060" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1063 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1843">
+          <rect x="1080" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1080" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1083 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">62</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1842">
+          <rect x="1100" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1100" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1103 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1841">
+          <rect x="1120" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1120" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1123 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1838">
+          <rect x="1140" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1140" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1143 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1837">
+          <rect x="1160" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1160" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1163 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">42</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1847">
+          <rect x="1180" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1180" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1183 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">16</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1846">
+          <rect x="1200" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1200" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1203 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1867">
+          <rect x="1220" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1220" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1223 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1866">
+          <rect x="1240" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1240" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1243 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">09</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1863">
+          <rect x="1340" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1340" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1343 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1862">
+          <rect x="1360" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1360" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1363 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">FE</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1861">
+          <rect x="1380" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1380" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1383 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">03</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1860">
+          <rect x="1400" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1400" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1403 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1859">
+          <rect x="1480" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1480" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1483 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1858">
+          <rect x="1500" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1500" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1503 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">62</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1857">
+          <rect x="1520" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1520" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1523 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1856">
+          <rect x="1540" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1540" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1543 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1855">
+          <rect x="1560" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1560" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1563 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1854">
+          <rect x="1580" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1580" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1583 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">DD</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1853">
+          <rect x="1600" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1600" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1603 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">F9</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1852">
+          <rect x="1620" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1620" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1623 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">30</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1851">
+          <rect x="1680" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1680" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1683 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1850">
+          <rect x="1700" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1700" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1703 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">2A</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1849">
+          <rect x="1720" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1720" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1723 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">04</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1848">
+          <rect x="1740" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1740" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1743 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">27</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1879">
+          <rect x="1160" y="730" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1165 732.7)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Subslot</tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1896">
+          <rect x="1160" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1160" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1163 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1895">
+          <rect x="1180" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1180" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1183 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">42</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1894">
+          <rect x="1200" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1200" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1203 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">16</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1893">
+          <rect x="1220" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1220" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1223 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1892">
+          <rect x="1240" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1240" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1243 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1891">
+          <rect x="1260" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1260" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1263 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">09</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1890">
+          <rect x="1280" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1280" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1283 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">5D</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1889">
+          <rect x="1300" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1300" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1303 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1904">
+          <rect x="1160" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1160" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1163 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1903">
+          <rect x="1180" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1180" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1183 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">42</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1902">
+          <rect x="1200" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1200" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1203 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">16</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1901">
+          <rect x="1220" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1220" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1223 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1900">
+          <rect x="1250" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1250" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1253 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1899">
+          <rect x="1270" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1270" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1273 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">09</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1898">
+          <rect x="1290" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1290" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1293 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">5D</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1897">
+          <rect x="1310" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1310" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1313 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1923">
+          <rect x="1250" y="730" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1255 732.7)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Subslot</tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">2</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1924">
+          <rect x="1360" y="730" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1365 732.7)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Subslot</tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">n</tspan>
+          </text>
+        </g>
+        <g id="Group_1970">
+          <g id="Group_1966">
+            <g id="Graphic_1969">
+              <path d="M 1300 690 L 1300 670 L 1324 670 C 1321 676 1333 684 1327 690 Z" fill="white"/>
+              <path d="M 1300 690 L 1300 670 L 1324 670 C 1321 676 1333 684 1327 690 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Graphic_1968">
+              <rect x="1160" y="670" width="155.53191" height="20" fill="white"/>
+              <rect x="1160" y="670" width="155.53191" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+              <text transform="translate(1165 672.7)" fill="black">
+                <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Audio Slot</tspan>
+                <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">t+1</tspan>
+              </text>
+            </g>
+            <g id="Line_1967">
+              <line x1="1160" y1="670" x2="1160" y2="690" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Group_1962">
+            <g id="Graphic_1965">
+              <path d="M 1368.125 670 L 1368.125 690 L 1345.625 690 C 1348.4375 684 1337.1875 676 1342.8125 670 Z" fill="white"/>
+              <path d="M 1368.125 670 L 1368.125 690 L 1345.625 690 C 1348.4375 684 1337.1875 676 1342.8125 670 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Graphic_1964">
+              <rect x="1360" y="670" width="80" height="20" fill="white"/>
+              <rect x="1360" y="670" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Line_1963">
+              <line x1="1440" y1="690" x2="1440" y2="670" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_2011">
+          <rect x="860" y="730" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(865 732.7)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Subslot</tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2010">
+          <rect x="860" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="860" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(863 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2009">
+          <rect x="880" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="880" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(883 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">83</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2008">
+          <rect x="900" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="900" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(903 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2007">
+          <rect x="920" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="920" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(923 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2006">
+          <rect x="940" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="940" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(943 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2005">
+          <rect x="960" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="960" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(963 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">9B</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2004">
+          <rect x="980" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="980" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(983 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">E0</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2003">
+          <rect x="1e3" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1e3" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1003 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2002">
+          <rect x="1060" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1060" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1063 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2001">
+          <rect x="1080" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1080" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1083 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">62</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2000">
+          <rect x="1100" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1100" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1103 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1999">
+          <rect x="1120" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1120" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1123 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1990">
+          <rect x="950" y="730" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(955 732.7)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Subslot</tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">2</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1989">
+          <rect x="1060" y="730" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1065 732.7)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Subslot</tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">n</tspan>
+          </text>
+        </g>
+        <g id="Group_1976">
+          <g id="Group_1981">
+            <g id="Graphic_1984">
+              <path d="M 1e3 690 L 1e3 670 L 1024 670 C 1021 676 1033 684 1027 690 Z" fill="white"/>
+              <path d="M 1e3 690 L 1e3 670 L 1024 670 C 1021 676 1033 684 1027 690 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Graphic_1983">
+              <rect x="860" y="670" width="155.53191" height="20" fill="white"/>
+              <rect x="860" y="670" width="155.53191" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+              <text transform="translate(865 672.7)" fill="black">
+                <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Audio Slot</tspan>
+                <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">t</tspan>
+              </text>
+            </g>
+            <g id="Line_1982">
+              <line x1="860" y1="670" x2="860" y2="690" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Group_1977">
+            <g id="Graphic_1980">
+              <path d="M 1068.125 670 L 1068.125 690 L 1045.625 690 C 1048.4375 684 1037.1875 676 1042.8125 670 Z" fill="white"/>
+              <path d="M 1068.125 670 L 1068.125 690 L 1045.625 690 C 1048.4375 684 1037.1875 676 1042.8125 670 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Graphic_1979">
+              <rect x="1060" y="670" width="80" height="20" fill="white"/>
+              <rect x="1060" y="670" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Line_1978">
+              <line x1="1140" y1="690" x2="1140" y2="670" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_2020">
+          <path d="M 1010 620 L 1010 600 L 1034 600 C 1031 606 1043 614 1037 620 Z" fill="white"/>
+          <path d="M 1010 620 L 1010 600 L 1034 600 C 1031 606 1043 614 1037 620 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2019">
+          <rect x="860" y="600" width="155.53191" height="20" fill="white"/>
+          <rect x="860" y="600" width="155.53191" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(865 602.8)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Audio Stream</tspan>
+          </text>
+        </g>
+        <g id="Line_2018">
+          <line x1="860" y1="600" x2="860" y2="620" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2016">
+          <path d="M 1698.125 600 L 1698.125 620 L 1675.625 620 C 1678.4375 614 1667.1875 606 1672.8125 600 Z" fill="white"/>
+          <path d="M 1698.125 600 L 1698.125 620 L 1675.625 620 C 1678.4375 614 1667.1875 606 1672.8125 600 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2015">
+          <rect x="1680" y="600" width="80" height="20" fill="white"/>
+          <rect x="1680" y="600" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Line_2014">
+          <line x1="1760" y1="620" x2="1760" y2="600" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2058">
+          <rect x="1480" y="730" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1485 732.7)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Subslot</tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2037">
+          <rect x="1570" y="730" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1575 732.7)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Subslot</tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">2</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2036">
+          <rect x="1680" y="730" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1685 732.7)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Subslot</tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">n</tspan>
+          </text>
+        </g>
+        <g id="Group_2023">
+          <g id="Group_2028">
+            <g id="Graphic_2031">
+              <path d="M 1628.3333 690 L 1628.3333 670 L 1653.6667 670 C 1650.5 676 1663.1667 684 1656.8333 690 Z" fill="white"/>
+              <path d="M 1628.3333 690 L 1628.3333 670 L 1653.6667 670 C 1650.5 676 1663.1667 684 1656.8333 690 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Graphic_2030">
+              <rect x="1480" y="670" width="164.17258" height="20" fill="white"/>
+              <rect x="1480" y="670" width="164.17258" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+              <text transform="translate(1485 672.7)" fill="black">
+                <tspan font-family="Atkinson Hyperlegible Next" font-size="12" fill="black" x="0" y="10" xml:space="preserve">Audio Slot</tspan>
+                <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" y="12" xml:space="preserve">t+n</tspan>
+              </text>
+            </g>
+            <g id="Line_2029">
+              <line x1="1480" y1="670" x2="1480" y2="690" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+          <g id="Group_2024">
+            <g id="Graphic_2027">
+              <path d="M 1695.3125 670 L 1695.3125 690 L 1675.0625 690 C 1677.5937 684 1667.4688 676 1672.5312 670 Z" fill="white"/>
+              <path d="M 1695.3125 670 L 1695.3125 690 L 1675.0625 690 C 1677.5937 684 1667.4688 676 1672.5312 670 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Graphic_2026">
+              <rect x="1688" y="670" width="72" height="20" fill="white"/>
+              <rect x="1688" y="670" width="72" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+            <g id="Line_2025">
+              <line x1="1760" y1="690" x2="1760" y2="670" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_2060">
+          <path d="M 1078.125 600 L 1078.125 620 L 1055.625 620 C 1058.4375 614 1047.1875 606 1052.8125 600 Z" fill="white"/>
+          <path d="M 1078.125 600 L 1078.125 620 L 1055.625 620 C 1058.4375 614 1047.1875 606 1052.8125 600 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2059">
+          <rect x="1060" y="600" width="240" height="20" fill="white"/>
+          <rect x="1060" y="600" width="240" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2064">
+          <path d="M 1410 620 L 1410 600 L 1434 600 C 1431 606 1443 614 1437 620 Z" fill="white"/>
+          <path d="M 1410 620 L 1410 600 L 1434 600 C 1431 606 1443 614 1437 620 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2063">
+          <path d="M 1359.0625 600 L 1359.0625 620 L 1336.5625 620 C 1339.375 614 1328.125 606 1333.75 600 Z" fill="white"/>
+          <path d="M 1359.0625 600 L 1359.0625 620 L 1336.5625 620 C 1339.375 614 1328.125 606 1333.75 600 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2062">
+          <rect x="1340" y="600" width="80" height="20" fill="white"/>
+          <rect x="1340" y="600" width="80" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2066">
+          <text transform="translate(1303 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="13.84" y="8" xml:space="preserve">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2067">
+          <text transform="translate(1643 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="13.84" y="8" xml:space="preserve">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2068">
+          <rect x="860" y="720" width="80" height="10" fill="#ccc"/>
+          <rect x="860" y="720" width="80" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(863 721.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="19.772" y="6" xml:space="preserve">Channel 1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2069">
+          <rect x="950" y="720" width="80" height="10" fill="#ccc"/>
+          <rect x="950" y="720" width="80" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(953 721.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="19.208" y="6" xml:space="preserve">Channel 2</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2070">
+          <rect x="1060" y="720" width="80" height="10" fill="#ccc"/>
+          <rect x="1060" y="720" width="80" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1063 721.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="19.2" y="6" xml:space="preserve">Channel n</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2071">
+          <title>Audio Subslot</title>
+          <rect x="860" y="660" width="280" height="10" fill="#ccc"/>
+          <rect x="860" y="660" width="280" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(865 661.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="116.888" y="6" xml:space="preserve">Sample (t)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2072">
+          <title>Audio Subslot</title>
+          <rect x="1160" y="660" width="280" height="10" fill="#ccc"/>
+          <rect x="1160" y="660" width="280" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1165 661.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="112.956" y="6" xml:space="preserve">Sample (t+1)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2073">
+          <title>Audio Subslot</title>
+          <rect x="1480" y="660" width="280" height="10" fill="#ccc"/>
+          <rect x="1480" y="660" width="280" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1485 661.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="112.264" y="6" xml:space="preserve">Sample (t+n)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2112">
+          <rect x="1160" y="720" width="80" height="10" fill="#ccc"/>
+          <rect x="1160" y="720" width="80" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1163 721.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="20.892" y="6" xml:space="preserve">Channel1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2111">
+          <rect x="1250" y="720" width="80" height="10" fill="#ccc"/>
+          <rect x="1250" y="720" width="80" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1253 721.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="19.208" y="6" xml:space="preserve">Channel 2</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2110">
+          <rect x="1360" y="720" width="80" height="10" fill="#ccc"/>
+          <rect x="1360" y="720" width="80" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1363 721.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="19.2" y="6" xml:space="preserve">Channel n</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2115">
+          <rect x="1480" y="720" width="80" height="10" fill="#ccc"/>
+          <rect x="1480" y="720" width="80" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1483 721.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="20.892" y="6" xml:space="preserve">Channel1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2114">
+          <rect x="1570" y="720" width="80" height="10" fill="#ccc"/>
+          <rect x="1570" y="720" width="80" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1573 721.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="19.208" y="6" xml:space="preserve">Channel 2</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2113">
+          <rect x="1680" y="720" width="80" height="10" fill="#ccc"/>
+          <rect x="1680" y="720" width="80" height="10" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1683 721.4)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="8" fill="black" x="19.2" y="6" xml:space="preserve">Channel n</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2117">
+          <text transform="translate(1023 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="13.84" y="8" xml:space="preserve">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2130">
+          <rect x="860" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="860" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(863 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2129">
+          <rect x="880" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="880" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(883 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">83</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2128">
+          <rect x="900" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="900" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(903 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2127">
+          <rect x="920" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="920" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(923 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2126">
+          <rect x="950" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="950" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(953 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2125">
+          <rect x="970" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="970" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(973 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">9B</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2124">
+          <rect x="990" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="990" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(993 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">E0</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2123">
+          <rect x="1010" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1010" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1013 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2122">
+          <rect x="1060" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1060" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1063 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2121">
+          <rect x="1080" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1080" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1083 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">62</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2120">
+          <rect x="1100" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1100" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1103 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2119">
+          <rect x="1120" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1120" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1123 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2132">
+          <rect x="1260" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1260" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1263 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">5D</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2131">
+          <rect x="1280" y="620" width="20" height="20" fill="#ffff80"/>
+          <rect x="1280" y="620" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1283 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2136">
+          <rect x="1360" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1360" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1363 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2135">
+          <rect x="1380" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1380" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1383 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">FE</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2134">
+          <rect x="1400" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1400" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1403 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">03</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2133">
+          <rect x="1420" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1420" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1423 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2144">
+          <rect x="1480" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1480" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1483 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2143">
+          <rect x="1500" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1500" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1503 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">62</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2142">
+          <rect x="1520" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1520" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1523 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2141">
+          <rect x="1540" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1540" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1543 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2140">
+          <rect x="1560" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1560" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1563 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2139">
+          <rect x="1580" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1580" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1583 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">DD</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2138">
+          <rect x="1600" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1600" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1603 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">F9</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2137">
+          <rect x="1620" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1620" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1623 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">30</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2152">
+          <rect x="1480" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1480" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1483 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2151">
+          <rect x="1500" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1500" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1503 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">62</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2150">
+          <rect x="1520" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1520" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1523 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2149">
+          <rect x="1540" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1540" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1543 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">28</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2148">
+          <rect x="1570" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1570" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1573 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2147">
+          <rect x="1590" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1590" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1593 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">DD</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2146">
+          <rect x="1610" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1610" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1613 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">F9</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2145">
+          <rect x="1630" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1630" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1633 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">30</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2156">
+          <rect x="1680" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1680" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1683 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2155">
+          <rect x="1700" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1700" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1703 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">2A</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2154">
+          <rect x="1720" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1720" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1723 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">04</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2153">
+          <rect x="1740" y="750" width="20" height="20" fill="#ffff80"/>
+          <rect x="1740" y="750" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1743 754)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">27</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2161">
+          <rect x="1680" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1680" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1683 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2160">
+          <rect x="1700" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1700" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1703 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">2A</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2159">
+          <rect x="1720" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1720" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1723 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">04</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2158">
+          <rect x="1740" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1740" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1743 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">27</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2165">
+          <rect x="1360" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1360" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1363 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">00</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2164">
+          <rect x="1380" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1380" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1383 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">FE</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2163">
+          <rect x="1400" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1400" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1403 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">03</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2162">
+          <rect x="1420" y="690" width="20" height="20" fill="#ffff80"/>
+          <rect x="1420" y="690" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(1423 694)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x=".68" y="8" xml:space="preserve">31</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2180">
+          <path d="M 1630 620 L 1630 600 L 1654 600 C 1651 606 1663 614 1657 620 Z" fill="white"/>
+          <path d="M 1630 620 L 1630 600 L 1654 600 C 1651 606 1663 614 1657 620 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2179">
+          <path d="M 1498.125 600 L 1498.125 620 L 1475.625 620 C 1478.4375 614 1467.1875 606 1472.8125 600 Z" fill="white"/>
+          <path d="M 1498.125 600 L 1498.125 620 L 1475.625 620 C 1478.4375 614 1467.1875 606 1472.8125 600 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2178">
+          <rect x="1480" y="600" width="170" height="20" fill="white"/>
+          <rect x="1480" y="600" width="170" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        </g>
+        <g id="Graphic_2183">
+          <text transform="translate(1423 624)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="23.84" y="8" xml:space="preserve">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2184">
+          <text transform="translate(1033 734)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="8.84" y="8" xml:space="preserve">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_2185">
+          <text transform="translate(1443 674)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="13.84" y="8" xml:space="preserve">…</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="319.75 1596.2684 500.5 110.5" width="500.5" height="110.5">
+  <defs/>
+  <g id="Descriptors" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>Descriptors</title>
+    <g id="Descriptors_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_333">
+        <g id="Graphic_41">
+          <title>Audio Subslot</title>
+          <rect x="320" y="1596.5184" width="440" height="30" fill="#c0ffff"/>
+          <rect x="320" y="1596.5184" width="440" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path">
+            <rect x="0" y="0" width="440" height="30" fill="#c0ffff"/>
+          </clipPath>
+          <text clip-path="url(#clip_path)" transform="translate(320 1596.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="5" y="18" xml:space="preserve">Interface #2 - Audio Streaming Interface Descriptor (Alt 0)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_40">
+          <title>Audio Subslot</title>
+          <rect x="320" y="1626.5184" width="500" height="80" fill="white"/>
+          <rect x="320" y="1626.5184" width="500" height="80" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_2">
+            <rect x="0" y="0" width="500" height="80" fill="white"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_2)" transform="translate(320 1626.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="15" xml:space="preserve">bInterfaceNumber  = 2</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="29.400005" xml:space="preserve">bAlternateSetting = 0</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="43.80001" xml:space="preserve">bFunctionClass    = 1  # Audio</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="58.200015" xml:space="preserve">bFunctionSubClass = 2  # Streaming</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="96" xml:space="preserve">bNumEndpoints     = 0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

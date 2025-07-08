@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="319.75 1716.2684 870.5 510.5" width="870.5" height="510.5">
+  <defs/>
+  <g id="Descriptors" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>Descriptors</title>
+    <g id="Descriptors_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_334">
+        <g id="Graphic_39">
+          <title>Audio Subslot</title>
+          <rect x="320" y="1716.5184" width="440" height="30" fill="#c0ffff"/>
+          <rect x="320" y="1716.5184" width="440" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path">
+            <rect x="0" y="0" width="440" height="30" fill="#c0ffff"/>
+          </clipPath>
+          <text clip-path="url(#clip_path)" transform="translate(320 1716.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="5" y="18" xml:space="preserve">Interface #2 - Audio Streaming Interface Descriptor (Alt 1)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_38">
+          <title>Audio Subslot</title>
+          <rect x="320" y="1746.5184" width="500" height="80" fill="white"/>
+          <rect x="320" y="1746.5184" width="500" height="80" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_2">
+            <rect x="0" y="0" width="500" height="80" fill="white"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_2)" transform="translate(320 1746.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="15" xml:space="preserve">bInterfaceNumber  = 2</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="29.400005" xml:space="preserve">bAlternateSetting = 1</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="43.80001" xml:space="preserve">bFunctionClass    = 1  # Audio</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="58.200015" xml:space="preserve">bFunctionSubClass = 2  # Streaming</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="96" xml:space="preserve">bNumEndpoints     = 1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_42">
+          <title>Audio Subslot</title>
+          <rect x="340" y="1836.5184" width="440" height="30" fill="#c0ffff"/>
+          <rect x="340" y="1836.5184" width="440" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_3">
+            <rect x="0" y="0" width="440" height="30" fill="#c0ffff"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_3)" transform="translate(340 1836.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="5" y="18" xml:space="preserve">Class Specific Audio Streaming Interface Descriptor</tspan>
+          </text>
+        </g>
+        <g id="Graphic_43">
+          <title>Audio Subslot</title>
+          <rect x="340" y="1946.5184" width="440" height="30" fill="#c0ffff"/>
+          <rect x="340" y="1946.5184" width="440" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_4">
+            <rect x="0" y="0" width="440" height="30" fill="#c0ffff"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_4)" transform="translate(340 1946.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="5" y="18" xml:space="preserve">Type I Format Type Descriptor</tspan>
+          </text>
+        </g>
+        <g id="Graphic_44">
+          <title>Audio Subslot</title>
+          <rect x="360" y="2026.5184" width="440" height="30" fill="#c0ffff"/>
+          <rect x="360" y="2026.5184" width="440" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_5">
+            <rect x="0" y="0" width="440" height="30" fill="#c0ffff"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_5)" transform="translate(360 2026.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="5" y="18" xml:space="preserve">Endpoint Descriptor</tspan>
+          </text>
+        </g>
+        <g id="Graphic_45">
+          <title>Audio Subslot</title>
+          <rect x="340" y="1866.5184" width="500" height="70" fill="white"/>
+          <rect x="340" y="1866.5184" width="500" height="70" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_6">
+            <rect x="0" y="0" width="500" height="70" fill="white"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_6)" transform="translate(340 1866.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="15" xml:space="preserve">bTerminalLink = 5</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="29.400005" xml:space="preserve">bFormatType   = FORMAT_TYPE_I</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="43.80001" xml:space="preserve">bmFormats     = PCM</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="58.200015" xml:space="preserve">bNrChannels   = self.channels</tspan>
+          </text>
+        </g>
+        <g id="Graphic_46">
+          <title>Audio Subslot</title>
+          <rect x="340" y="1976.5184" width="500" height="40" fill="white"/>
+          <rect x="340" y="1976.5184" width="500" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_7">
+            <rect x="0" y="0" width="500" height="40" fill="white"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_7)" transform="translate(340 1976.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="15" xml:space="preserve">bSubslotSize   = self.subslot_size</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="29.400005" xml:space="preserve">bBitResolution = self.bit_depth</tspan>
+          </text>
+        </g>
+        <g id="Graphic_47">
+          <title>Audio Subslot</title>
+          <rect x="360" y="2056.5184" width="610" height="70" fill="white"/>
+          <rect x="360" y="2056.5184" width="610" height="70" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_8">
+            <rect x="0" y="0" width="610" height="70" fill="white"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_8)" transform="translate(360 2056.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="15" xml:space="preserve">bEndpointAddress = 0x83  # EPNO3 IN</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="29.400005" xml:space="preserve">bmAttributes     = ISOCHRONOUS | ASYNC | DATA</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="43.80001" xml:space="preserve">wMaxPacketSize   = self.bytes_per_microframe  # 48x1 transaction op per uframe</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="58.200015" xml:space="preserve">bInterval        = 1  # 2^(bInterval-1) = 1 = poll for transfer every 1 uFrames</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="86" xml:space="preserve"> </tspan>
+          </text>
+        </g>
+        <g id="Graphic_49">
+          <title>Audio Subslot</title>
+          <rect x="380" y="2136.5184" width="680" height="30" fill="#c0ffff"/>
+          <rect x="380" y="2136.5184" width="680" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_9">
+            <rect x="0" y="0" width="680" height="30" fill="#c0ffff"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_9)" transform="translate(380 2136.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="5" y="18" xml:space="preserve">Class Specific Audio Streaming Isochronous Audio Data Endpoint Descriptor</tspan>
+          </text>
+        </g>
+        <g id="Graphic_48">
+          <title>Audio Subslot</title>
+          <rect x="380" y="2166.5184" width="810" height="60" fill="white"/>
+          <rect x="380" y="2166.5184" width="810" height="60" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_10">
+            <rect x="0" y="0" width="810" height="60" fill="white"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_10)" transform="translate(380 2166.5184)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="15" xml:space="preserve">bmControls      = 0 # D1..0: pitch control D3..2: data overrun control; D5..4: data underrun control</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="29.400005" xml:space="preserve">bLockDelayUnits = 0 # 0: undefined; 1: milliseconds; 2: decoded PCM samples</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="43.80001" xml:space="preserve">wLockDelay      = 0 # time it takes this endpoint to reliably lock its internal clock recovery circuitry</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

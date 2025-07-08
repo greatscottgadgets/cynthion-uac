@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GSG: USB Audio from Scratch</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+    </head>
+    <body>
+        <script src="lib/remark-0.15.0.min.js"></script>
+        <script>
+            window.addEventListener("load", function() {
+                var slideshow = remark.create({
+                    ratio: "16:9",
+                    navigation: {
+                        scroll: false,  // Enable or disable navigating using scroll
+                        touch: false,   // Enable or disable navigation using touch
+                        click: false,   // Enable or disable navigation using click
+                    },
+                    sourceUrl: "slides.md?foo=bar",
+                    countIncrementalSlides: false,
+                    timer: {
+                        startOnChange: true,
+                        resetable: true,
+                        enabled: false
+                    },
+                    slideNumberFormat: function(current, total) { return ""; },
+                    highlightLanguage: "python",
+                    highlightStyle: "zenburn",
+                    highlightLines: false,  // lines that start with *
+                    highlightSpans: false,  // blocks between ` `
+                });
+            });
+        </script>
+    </body>
+</html>

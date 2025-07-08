@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-20.25 -900.25 1420.5 1160.5" width="1420.5" height="1160.5">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 5 6" markerWidth="5" markerHeight="6" color="#ab7942">
+      <g>
+        <path d="M 2.88 0 L 0 -1.08 L 0 1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-4 -3 5 6" markerWidth="5" markerHeight="6" color="#ab7942">
+      <g>
+        <path d="M -2.88 0 L 0 1.08 L 0 -1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 5 6" markerWidth="5" markerHeight="6" color="#0432ff">
+      <g>
+        <path d="M 2.88 0 L 0 -1.08 L 0 1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_4" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-4 -3 5 6" markerWidth="5" markerHeight="6" color="#ab7942">
+      <g>
+        <path d="M -2.88 0 L 0 1.08 L 0 -1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_5" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 5 6" markerWidth="5" markerHeight="6" color="#ab7942">
+      <g>
+        <path d="M 2.88 0 L 0 -1.08 L 0 1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_6" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 5 6" markerWidth="5" markerHeight="6" color="#0432ff">
+      <g>
+        <path d="M 2.88 0 L 0 -1.08 L 0 1.08 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Block_Diagram" fill-opacity="1" stroke="none" stroke-opacity="1" fill="none" stroke-dasharray="none">
+    <title>Block Diagram</title>
+    <g id="Block_Diagram_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_179">
+        <rect x="500" y="-570" width="300" height="30" fill="#c0ffff"/>
+        <rect x="500" y="-570" width="300" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(505 -564.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="13.544" y="13" xml:space="preserve">DeviceDescriptorCollection</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2">
+        <rect x="-20" y="-900" width="200" height="40" fill="#ff4040"/>
+        <rect x="-20" y="-900" width="200" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(-15 -889.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="44.44" y="13" xml:space="preserve">target_phy</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="500" y="-540" width="300" height="50" fill="#80ff80"/>
+        <rect x="500" y="-540" width="300" height="50" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(505 -524.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="33.768" y="13" xml:space="preserve">StandardRequestHandler</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <rect x="0" y="-800" width="200" height="100" fill="#80ff80"/>
+        <rect x="0" y="-800" width="200" height="100" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(5 -759.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="49.496" y="13" xml:space="preserve">USBDevice</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <rect x="500" y="-420" width="300" height="50" fill="#c0ffff"/>
+        <rect x="500" y="-420" width="300" height="50" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(505 -404.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="53.992" y="13" xml:space="preserve">UAC2RequestHandler</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <rect x="200" y="-680" width="400" height="100" fill="#80ff80"/>
+        <rect x="200" y="-680" width="400" height="100" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(205 -658.7)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="103.992" y="13" xml:space="preserve">USBControlEndpoint</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="16" fill="black" x="83.768" y="51.200006" xml:space="preserve">Endpoint 0x00: Control</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <rect x="500" y="-480" width="300" height="50" fill="#c0ffff"/>
+        <rect x="500" y="-480" width="300" height="50" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(505 -464.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="48.936" y="13" xml:space="preserve">StallRequestHandler</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <rect x="200" y="-350" width="400" height="100" fill="#80ff80"/>
+        <rect x="200" y="-350" width="400" height="100" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(205 -328.7)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="38.264" y="13" xml:space="preserve">USBIsochronousStreamOutEndpoint</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="16" fill="black" x="119.16" y="51.200006" xml:space="preserve">0x01: Audio OUT</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <rect x="200" y="-130" width="400" height="100" fill="#80ff80"/>
+        <rect x="200" y="-130" width="400" height="100" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(205 -108.70001)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="73.656" y="13" xml:space="preserve">USBIsochronousInEndpoint</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="16" fill="black" x="109.048" y="51.200006" xml:space="preserve">0x82: Feedback IN</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="200" y="50" width="400" height="90" fill="#80ff80"/>
+        <rect x="200" y="50" width="400" height="90" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(205 66.29999)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="43.32" y="13" xml:space="preserve">USBIsochronousStreamInEndpoint</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="16" fill="black" x="124.216" y="51.200006" xml:space="preserve">0x83: Audio IN</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <rect x="500" y="-20" width="300" height="50" fill="#c0ffff"/>
+        <rect x="500" y="-20" width="300" height="50" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(505 -4.600003)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="18.6" y="13" xml:space="preserve">feedbackValue: Signal(32)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="500" y="-180" width="300" height="30" fill="#ff9300"/>
+        <rect x="500" y="-180" width="300" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(505 -174.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="64.104" y="13" xml:space="preserve">stream.Interface</tspan>
+        </text>
+      </g>
+      <g id="Graphic_141">
+        <rect x="500" y="210" width="300" height="50" fill="#ff9300"/>
+        <rect x="500" y="210" width="300" height="50" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(505 225.4)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="64.104" y="13" xml:space="preserve">stream.Interface</tspan>
+        </text>
+      </g>
+      <g id="Graphic_142">
+        <rect x="1200" y="-860" width="200" height="40" fill="#ff4040"/>
+        <rect x="1200" y="-860" width="200" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(1205 -849.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="54.552" y="13" xml:space="preserve">Hardware</tspan>
+        </text>
+      </g>
+      <g id="Graphic_143">
+        <rect x="1200" y="-780" width="200" height="40" fill="#80ff80"/>
+        <rect x="1200" y="-780" width="200" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(1205 -769.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="74.776" y="13" xml:space="preserve">luna</tspan>
+        </text>
+      </g>
+      <g id="Graphic_144">
+        <rect x="1200" y="-740" width="200" height="40" fill="#c0ffff"/>
+        <rect x="1200" y="-740" width="200" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(1205 -729.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="74.776" y="13" xml:space="preserve">uac2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_145">
+        <rect x="1200" y="-900" width="200" height="40" fill="white"/>
+        <text transform="translate(1205 -893.9)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="24" fill="black" x="49.496" y="19" xml:space="preserve">LEGEND</tspan>
+        </text>
+      </g>
+      <g id="Graphic_146">
+        <rect x="900" y="210" width="300" height="50" fill="#ff9300"/>
+        <rect x="900" y="210" width="300" height="50" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(905 225.4)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="64.104" y="13" xml:space="preserve">stream.Interface</tspan>
+        </text>
+      </g>
+      <g id="Graphic_147">
+        <rect x="900" y="-180" width="300" height="30" fill="#ff9300"/>
+        <rect x="900" y="-180" width="300" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(905 -174.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="64.104" y="13" xml:space="preserve">stream.Interface</tspan>
+        </text>
+      </g>
+      <g id="Graphic_148">
+        <rect x="1100" y="-250" width="300" height="50" fill="#ffc0ff"/>
+        <rect x="1100" y="-250" width="300" height="50" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(1105 -234.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="104.552" y="13" xml:space="preserve">VU Meter</tspan>
+        </text>
+      </g>
+      <g id="Graphic_149">
+        <rect x="1100" y="130" width="300" height="50" fill="#ffc0ff"/>
+        <rect x="1100" y="130" width="300" height="50" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(1105 145.4)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="129.832" y="13" xml:space="preserve">NCO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_150">
+        <rect x="1200" y="-700" width="200" height="40" fill="#ffc0ff"/>
+        <rect x="1200" y="-700" width="200" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(1205 -689.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="79.832" y="13" xml:space="preserve">dsp</tspan>
+        </text>
+      </g>
+      <g id="Line_152">
+        <line x1="80" y1="-838.1" x2="80" y2="-821.9" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_163">
+        <path d="M 160 -678.1 L 160 -630 L 178.1 -630" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_164">
+        <path d="M 120 -700 L 120 -300 L 178.1 -300" marker-end="url(#FilledArrow_Marker)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_165">
+        <path d="M 80 -678.1 L 80 -80 L 200 -80" marker-start="url(#FilledArrow_Marker_2)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_166">
+        <path d="M 40 -678.1 L 40 95 L 200 95" marker-start="url(#FilledArrow_Marker_2)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_167">
+        <line x1="800" y1="-165" x2="878.1" y2="-165" marker-end="url(#FilledArrow_Marker_3)" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_169">
+        <path d="M 400 -8.1 L 400 5 L 500 5" marker-start="url(#FilledArrow_Marker_4)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_170">
+        <path d="M 478.1 -165 L 400 -165 L 400 -250" marker-start="url(#FilledArrow_Marker_4)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_171">
+        <path d="M 500 235 L 400 235 L 400 161.9" marker-end="url(#FilledArrow_Marker_5)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_172">
+        <line x1="900" y1="235" x2="821.9" y2="235" marker-end="url(#FilledArrow_Marker_6)" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_173">
+        <path d="M 1250 180 L 1250 235 L 1221.9 235" marker-end="url(#FilledArrow_Marker_5)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_174">
+        <path d="M 1200 -165 L 1250 -165 L 1250 -178.1" marker-end="url(#FilledArrow_Marker_5)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_175">
+        <path d="M 400 -558.1 L 400 -515 L 478.1 -515" marker-end="url(#FilledArrow_Marker_5)" marker-start="url(#FilledArrow_Marker_4)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_176">
+        <path d="M 333.33333 -558.1 L 333.33333 -455 L 478.1 -455" marker-end="url(#FilledArrow_Marker_5)" marker-start="url(#FilledArrow_Marker_4)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_177">
+        <path d="M 266.66667 -558.1 L 266.66667 -395 L 478.1 -395" marker-end="url(#FilledArrow_Marker_5)" marker-start="url(#FilledArrow_Marker_4)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_178">
+        <rect x="1200" y="-820" width="200" height="40" fill="#ff9300"/>
+        <rect x="1200" y="-820" width="200" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(1205 -809.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="34.328" y="13" xml:space="preserve">amaranth.lib</tspan>
+        </text>
+      </g>
+      <g id="Graphic_183">
+        <rect x="900" y="-320" width="300" height="30" fill="#ff9300"/>
+        <rect x="900" y="-320" width="300" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(905 -314.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="64.104" y="13" xml:space="preserve">stream.Interface</tspan>
+        </text>
+      </g>
+      <g id="Graphic_182">
+        <rect x="1100" y="-390" width="300" height="50" fill="#ffc0ff"/>
+        <rect x="1100" y="-390" width="300" height="50" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(1105 -374.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="129.832" y="13" xml:space="preserve">DAC</tspan>
+        </text>
+      </g>
+      <g id="Line_181">
+        <path d="M 1200 -305 L 1250 -305 L 1250 -318.1" marker-end="url(#FilledArrow_Marker_5)" stroke="#ab7942" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Line_184">
+        <path d="M 800 -165 L 850 -165 L 850 -305 L 878.1 -305" marker-end="url(#FilledArrow_Marker_6)" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g id="Graphic_186">
+        <rect x="500" y="-240" width="300" height="60" fill="#c0ffff"/>
+        <rect x="500" y="-240" width="300" height="60" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(505 -219.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="48.936" y="13" xml:space="preserve">UAC2StreamToSamples</tspan>
+        </text>
+      </g>
+      <g id="Graphic_187">
+        <rect x="500" y="150" width="300" height="60" fill="#c0ffff"/>
+        <rect x="500" y="150" width="300" height="60" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(505 170.4)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-weight="bold" font-size="16" fill="black" x="48.936" y="13" xml:space="preserve">SamplesToUAC2Stream</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

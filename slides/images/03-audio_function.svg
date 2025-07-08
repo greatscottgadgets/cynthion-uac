@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-1000.5 -630 678.372 452" width="678.372" height="452">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#ff2600">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#0432ff">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Audio_Function" stroke-opacity="1" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Audio Function</title>
+    <g id="Audio_Function_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_55">
+        <text transform="translate(-795 -625)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="0" y="13" xml:space="preserve">#1 Internal Fixed Clock</tspan>
+        </text>
+      </g>
+      <g id="Graphic_54">
+        <text transform="translate(-995 -525)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="0" y="13" xml:space="preserve">#2 USB Streaming</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <text transform="translate(-435 -525)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="0" y="13" xml:space="preserve">#3 Speaker</tspan>
+        </text>
+      </g>
+      <g id="Graphic_52">
+        <text transform="translate(-435 -324.2)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="0" y="13" xml:space="preserve">#4 Microphone</tspan>
+        </text>
+      </g>
+      <g id="Graphic_51">
+        <text transform="translate(-995 -324.2)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="0" y="13" xml:space="preserve">#5 USB Streaming</tspan>
+        </text>
+      </g>
+      <g id="Group_43">
+        <title>Input Terminal</title>
+        <g id="Graphic_50">
+          <circle cx="-950" cy="-450" r="50.0000798950948" fill="white"/>
+          <circle cx="-950" cy="-450" r="50.0000798950948" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-985 -469.2)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="16.008" y="13" xml:space="preserve">Input </tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="4.528" y="32.200006" xml:space="preserve">Terminal</tspan>
+          </text>
+        </g>
+        <g id="Graphic_49">
+          <circle cx="-850" cy="-450" r="10.000015979019" fill="white"/>
+          <circle cx="-850" cy="-450" r="10.000015979019" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-853 -454.3)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="8" fill="black" x=".472" y="6" xml:space="preserve">2</tspan>
+          </text>
+        </g>
+        <g id="Line_48">
+          <line x1="-900" y1="-450" x2="-860" y2="-450" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_47">
+          <rect x="-880" y="-420" width="20" height="20" fill="white"/>
+          <rect x="-880" y="-420" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-875 -414.3)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="8" fill="black" x="2.472" y="6" xml:space="preserve">1</tspan>
+          </text>
+        </g>
+        <g id="Line_46">
+          <path d="M -908.3895 -422.25967 L -890 -410 L -880 -410" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_45">
+          <text transform="translate(-865.734 -435)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="0" y="8" xml:space="preserve">Audio</tspan>
+          </text>
+        </g>
+        <g id="Graphic_44">
+          <text transform="translate(-885.734 -395)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="0" y="8" xml:space="preserve">Clock</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_35">
+        <title>Output Terminal</title>
+        <g id="Graphic_42">
+          <circle cx="-384.85" cy="-450" r="50.0000798950948" fill="white"/>
+          <circle cx="-384.85" cy="-450" r="50.0000798950948" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-419.85 -469.2)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="10.904" y="13" xml:space="preserve">Output </tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="4.528" y="32.200006" xml:space="preserve">Terminal</tspan>
+          </text>
+        </g>
+        <g id="Graphic_41">
+          <circle cx="-484.85" cy="-450" r="10.0000159790189" fill="white"/>
+          <circle cx="-484.85" cy="-450" r="10.0000159790189" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-487.85 -454.3)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="8" fill="black" x=".472" y="6" xml:space="preserve">3</tspan>
+          </text>
+        </g>
+        <g id="Line_40">
+          <line x1="-434.85" y1="-450" x2="-474.85" y2="-450" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_39">
+          <rect x="-474.85" y="-420" width="20" height="20" fill="white"/>
+          <rect x="-474.85" y="-420" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-469.85 -414.3)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="8" fill="black" x="2.472" y="6" xml:space="preserve">1</tspan>
+          </text>
+        </g>
+        <g id="Line_38">
+          <path d="M -426.4605 -422.25967 L -444.85 -410 L -454.85 -410" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_37">
+          <text transform="translate(-495 -435)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="14566126e-19" y="8" xml:space="preserve">Audio</tspan>
+          </text>
+        </g>
+        <g id="Graphic_36">
+          <text transform="translate(-475 -395)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="2035705e-18" y="8" xml:space="preserve">Clock</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_27">
+        <title>Output Terminal</title>
+        <g id="Graphic_34">
+          <circle cx="-950" cy="-250" r="50.0000798950948" fill="white"/>
+          <circle cx="-950" cy="-250" r="50.0000798950948" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-985 -269.2)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="10.904" y="13" xml:space="preserve">Output </tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="4.528" y="32.200006" xml:space="preserve">Terminal</tspan>
+          </text>
+        </g>
+        <g id="Graphic_33">
+          <circle cx="-850" cy="-250" r="10.000015979019" fill="white"/>
+          <circle cx="-850" cy="-250" r="10.000015979019" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-853 -254.3)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="8" fill="black" x=".472" y="6" xml:space="preserve">5</tspan>
+          </text>
+        </g>
+        <g id="Line_32">
+          <line x1="-900" y1="-250" x2="-860" y2="-250" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_31">
+          <rect x="-880" y="-220" width="20" height="20" fill="white"/>
+          <rect x="-880" y="-220" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-875 -214.3)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="8" fill="black" x="2.472" y="6" xml:space="preserve">1</tspan>
+          </text>
+        </g>
+        <g id="Line_30">
+          <path d="M -908.3895 -222.25967 L -890 -210 L -880 -210" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_29">
+          <text transform="translate(-865 -235)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="14566126e-19" y="8" xml:space="preserve">Audio</tspan>
+          </text>
+        </g>
+        <g id="Graphic_28">
+          <text transform="translate(-884.36 -195)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="2035705e-18" y="8" xml:space="preserve">Clock</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_18">
+        <title>Clock</title>
+        <g id="Graphic_26">
+          <path d="M -800 -550 L -775 -600 L -725 -600 L -700 -550 L -725 -500 L -775 -500 Z" fill="white"/>
+          <path d="M -800 -550 L -775 -600 L -725 -600 L -700 -550 L -725 -500 L -775 -500 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-770 -517)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="7.745" y="8" xml:space="preserve">Clock</tspan>
+          </text>
+        </g>
+        <g id="Graphic_25">
+          <rect x="-759" y="-580" width="20" height="60" fill="white"/>
+          <rect x="-759" y="-580" width="20" height="60" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_24">
+          <line x1="-729" y1="-580" x2="-729" y2="-520" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_23">
+          <line x1="-770" y1="-580" x2="-770" y2="-520" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_22">
+          <line x1="-770" y1="-550" x2="-780" y2="-550" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_21">
+          <line x1="-729" y1="-550" x2="-719" y2="-550" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_20">
+          <line x1="-700" y1="-550" x2="-680" y2="-550" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_19">
+          <rect x="-680" y="-560" width="20" height="20" fill="white"/>
+          <rect x="-680" y="-560" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-675 -554.3)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="8" fill="black" x="2.472" y="6" xml:space="preserve">1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_10">
+        <title>Input Terminal</title>
+        <g id="Graphic_17">
+          <circle cx="-385.584" cy="-250" r="50.0000798950948" fill="white"/>
+          <circle cx="-385.584" cy="-250" r="50.0000798950948" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-420.584 -269.2)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="16.008" y="13" xml:space="preserve">Input </tspan>
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="4.528" y="32.200006" xml:space="preserve">Terminal</tspan>
+          </text>
+        </g>
+        <g id="Graphic_16">
+          <circle cx="-485.584" cy="-250" r="10.000015979019" fill="white"/>
+          <circle cx="-485.584" cy="-250" r="10.000015979019" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-488.584 -254.3)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="8" fill="black" x=".472" y="6" xml:space="preserve">4</tspan>
+          </text>
+        </g>
+        <g id="Line_15">
+          <line x1="-435.584" y1="-250" x2="-475.584" y2="-250" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_14">
+          <rect x="-475.584" y="-220" width="20" height="20" fill="white"/>
+          <rect x="-475.584" y="-220" width="20" height="20" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-470.584 -214.3)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="8" fill="black" x="2.472" y="6" xml:space="preserve">1</tspan>
+          </text>
+        </g>
+        <g id="Line_13">
+          <path d="M -427.1945 -222.25967 L -445.584 -210 L -455.584 -210" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_12">
+          <text transform="translate(-495 -235)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="0" y="8" xml:space="preserve">Audio</tspan>
+          </text>
+        </g>
+        <g id="Graphic_11">
+          <text transform="translate(-474.36 -195)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="0" y="8" xml:space="preserve">Clock</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_9">
+        <path d="M -670 -540 L -670 -410 L -847.1 -410" marker-end="url(#FilledArrow_Marker)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,8.0" stroke-width="2"/>
+      </g>
+      <g id="Line_8">
+        <path d="M -670 -540 L -670 -410 L -487.75 -410" marker-end="url(#FilledArrow_Marker)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,8.0" stroke-width="2"/>
+      </g>
+      <g id="Line_7">
+        <path d="M -670 -540 L -670 -210 L -847.1 -210" marker-end="url(#FilledArrow_Marker)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,8.0" stroke-width="2"/>
+      </g>
+      <g id="Line_6">
+        <path d="M -670 -540 L -670 -210 L -488.484 -210" marker-end="url(#FilledArrow_Marker)" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,8.0" stroke-width="2"/>
+      </g>
+      <g id="Line_5">
+        <line x1="-840" y1="-450" x2="-507.75" y2="-450" marker-end="url(#FilledArrow_Marker_2)" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_4">
+        <line x1="-495.584" y1="-250" x2="-827.1" y2="-250" marker-end="url(#FilledArrow_Marker_2)" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

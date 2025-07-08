@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="-1160.5 -1060 2071 530" width="2071" height="530">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#0432ff">
+      <g>
+        <path d="M 2.4 0 L 0 -.9 L 0 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Clocks" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" fill="none" stroke="none">
+    <title>Clocks</title>
+    <g id="Clocks_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_307">
+        <path d="M -1077.5 -1030 L -692.5 -1030 C -646.96 -1030 -610 -980.72 -610 -920 C -610 -859.28 -646.96 -810 -692.5 -810 L -1077.5 -810 C -1123.04 -810 -1160 -859.28 -1160 -920 C -1160 -980.72 -1123.04 -1030 -1077.5 -1030 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_306">
+        <path d="M 570 -1030 L 850 -1030 C 883.12 -1030 910 -933.68 910 -815 C 910 -696.32 883.12 -600 850 -600 L 570 -600 C 536.88 -600 510 -696.32 510 -815 C 510 -933.68 536.88 -1030 570 -1030 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_305">
+        <path d="M 48 -1030 L 412 -1030 C 455.056 -1030 490 -933.68 490 -815 C 490 -696.32 455.056 -600 412 -600 L 48 -600 C 4.944 -600 -30 -696.32 -30 -815 C -30 -933.68 4.944 -1030 48 -1030 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Group_90">
+        <g id="Group_5">
+          <title>Clock</title>
+          <g id="Graphic_13">
+            <path d="M 540 -950 L 565 -1e3 L 615 -1e3 L 640 -950 L 615 -900 L 565 -900 Z" fill="white"/>
+            <path d="M 540 -950 L 565 -1e3 L 615 -1e3 L 640 -950 L 615 -900 L 565 -900 Z" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+            <text transform="translate(570 -917)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="7.745" y="8" xml:space="preserve">Clock</tspan>
+            </text>
+          </g>
+          <g id="Graphic_12">
+            <rect x="581" y="-980" width="20" height="60" fill="white"/>
+            <rect x="581" y="-980" width="20" height="60" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_11">
+            <line x1="611" y1="-980" x2="611" y2="-920" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_10">
+            <line x1="570" y1="-980" x2="570" y2="-920" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_9">
+            <line x1="570" y1="-950" x2="560" y2="-950" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_8">
+            <line x1="611" y1="-950" x2="621" y2="-950" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_14">
+          <text transform="translate(545 -885)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="3.472" y="13" xml:space="preserve">12.288 MHz</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_21">
+        <rect x="460" y="-820" width="80" height="30" stroke="black" stroke-linecap="square" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(470 -814.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="16" fill="black" x="11.584" y="13" xml:space="preserve">FIFO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <path d="M 800 -820 L 846.69 -820 L 870 -805 L 846.69 -790 L 800 -790 Z" fill="white"/>
+        <path d="M 800 -820 L 846.69 -820 L 870 -805 L 846.69 -790 L 800 -790 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(806.448 -814.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="16" fill="black" x="3311129e-18" y="13" xml:space="preserve">DAC</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <path d="M 870 -650 L 823.31 -650 L 800 -665 L 823.31 -680 L 870 -680 Z" fill="white"/>
+        <path d="M 870 -650 L 823.31 -650 L 800 -665 L 823.31 -680 L 870 -680 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(818.776 -674.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="16" fill="black" x="1563194e-19" y="13" xml:space="preserve">ADC</tspan>
+        </text>
+      </g>
+      <g id="Group_91">
+        <g id="Group_34">
+          <title>Clock</title>
+          <g id="Graphic_40">
+            <path d="M 0 -949.2 L 25 -999.2 L 75 -999.2 L 100 -949.2 L 75 -899.2 L 25 -899.2 Z" fill="white"/>
+            <path d="M 0 -949.2 L 25 -999.2 L 75 -999.2 L 100 -949.2 L 75 -899.2 L 25 -899.2 Z" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+            <text transform="translate(30 -916.2)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="7.745" y="8" xml:space="preserve">Clock</tspan>
+            </text>
+          </g>
+          <g id="Graphic_39">
+            <rect x="41" y="-979.2" width="20" height="60" fill="white"/>
+            <rect x="41" y="-979.2" width="20" height="60" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_38">
+            <line x1="71" y1="-979.2" x2="71" y2="-919.2" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_37">
+            <line x1="30" y1="-979.2" x2="30" y2="-919.2" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_36">
+            <line x1="30" y1="-949.2" x2="20" y2="-949.2" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_35">
+            <line x1="71" y1="-949.2" x2="81" y2="-949.2" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_33">
+          <text transform="translate(5 -884.2)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="16.968" y="13" xml:space="preserve">60 MHz</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_93">
+        <path d="M -600 -800 L -600 -810 L 40 -810 L 40 -820 L 70 -805 L 40 -790 L 40 -800 Z" fill="red"/>
+      </g>
+      <g id="Graphic_148">
+        <title>USB</title>
+        <path d="M -442.92075 -1043.0189 L -442.92075 -1031.6981 L -440.09057 -1031.6981 L -440.09057 -1026.0377 L -448.58113 -1026.0377 L -448.58113 -1048.6792 L -442.92075 -1048.6792 L -451.4113 -1060 L -459.9019 -1048.6792 L -454.2415 -1048.6792 L -454.2415 -1026.0377 L -462.7321 -1026.0377 L -462.7321 -1031.8962 C -460.75094 -1032.9434 -459.33585 -1034.9528 -459.33585 -1037.3585 C -459.33585 -1040.783 -462.13774 -1043.5849 -465.56226 -1043.5849 C -468.9868 -1043.5849 -471.7887 -1040.783 -471.7887 -1037.3585 C -471.7887 -1034.9528 -470.3736 -1032.9434 -468.39245 -1031.8962 L -468.39245 -1026.0377 C -468.39245 -1022.8962 -465.8736 -1020.3774 -462.7321 -1020.3774 L -454.2415 -1020.3774 L -454.2415 -1011.7453 C -456.25094 -1010.6981 -457.63774 -1008.6321 -457.63774 -1006.2264 C -457.63774 -1002.7736 -454.83585 -1e3 -451.4113 -1e3 C -447.9868 -1e3 -445.1849 -1002.7736 -445.1849 -1006.2264 C -445.1849 -1008.6321 -446.5717 -1010.6981 -448.58113 -1011.7453 L -448.58113 -1020.3774 L -440.09057 -1020.3774 C -436.94906 -1020.3774 -434.4302 -1022.8962 -434.4302 -1026.0377 L -434.4302 -1031.6981 L -431.6 -1031.6981 L -431.6 -1043.0189 L -442.92075 -1043.0189 Z" fill="black"/>
+      </g>
+      <g id="Graphic_155">
+        <text transform="translate(-595 -795)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="0" y="13" xml:space="preserve">40, 48 or 56 bytes </tspan>
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="0" y="32.200006" xml:space="preserve">every ~125 μs</tspan>
+        </text>
+      </g>
+      <g id="Group_157">
+        <g id="Group_159">
+          <title>Clock</title>
+          <g id="Graphic_165">
+            <path d="M -790 -949.2 L -765 -999.2 L -715 -999.2 L -690 -949.2 L -715 -899.2 L -765 -899.2 Z" fill="white"/>
+            <path d="M -790 -949.2 L -765 -999.2 L -715 -999.2 L -690 -949.2 L -715 -899.2 L -765 -899.2 Z" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+            <text transform="translate(-760 -916.2)" fill="black">
+              <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="black" x="7.745" y="8" xml:space="preserve">Clock</tspan>
+            </text>
+          </g>
+          <g id="Graphic_164">
+            <rect x="-749" y="-979.2" width="20" height="60" fill="white"/>
+            <rect x="-749" y="-979.2" width="20" height="60" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_163">
+            <line x1="-719" y1="-979.2" x2="-719" y2="-919.2" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_162">
+            <line x1="-760" y1="-979.2" x2="-760" y2="-919.2" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_161">
+            <line x1="-760" y1="-949.2" x2="-770" y2="-949.2" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+          <g id="Line_160">
+            <line x1="-719" y1="-949.2" x2="-709" y2="-949.2" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_158">
+          <text transform="translate(-785 -884.2)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="24.672" y="13" xml:space="preserve">8 kHz</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_171">
+        <text transform="translate(-985 -1055)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="0" y="10" xml:space="preserve">1/(125*(10^-6)) = 8 000 Hz </tspan>
+        </text>
+      </g>
+      <g id="Graphic_172">
+        <text transform="translate(-285 -715)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">2^(4-1) = 8 μframes (125 μs) </tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="20.000004" xml:space="preserve">        = 1 frame (1ms)</tspan>
+        </text>
+      </g>
+      <g id="Line_174">
+        <line x1="-610" y1="-950" x2="-610" y2="-760" stroke="#686868" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="2.0,10.0" stroke-width="2"/>
+      </g>
+      <g id="Line_225">
+        <line x1="-310" y1="-950" x2="-310" y2="-610" stroke="#686868" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="2.0,10.0" stroke-width="2"/>
+      </g>
+      <g id="Line_227">
+        <line x1="-420" y1="-950" x2="-420" y2="-680" stroke="#686868" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="2.0,10.0" stroke-width="2"/>
+      </g>
+      <g id="Graphic_231">
+        <text transform="translate(-295 -645)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="0" y="13" xml:space="preserve">40, 48 or 56 bytes </tspan>
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="0" y="32.200006" xml:space="preserve">every ~125 μs</tspan>
+        </text>
+      </g>
+      <g id="Graphic_232">
+        <text transform="translate(-405 -715)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="0" y="13" xml:space="preserve">4 bytes </tspan>
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="0" y="32.200006" xml:space="preserve">every ~1000 μs</tspan>
+        </text>
+      </g>
+      <g id="Group_236">
+        <g id="Graphic_240">
+          <rect x="100" y="-820" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_239">
+          <rect x="120" y="-820" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_238">
+          <rect x="140" y="-820" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_237">
+          <rect x="160" y="-820" width="10" height="10" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_241">
+        <path d="M 70 -730 L 70 -740 L -380 -740 L -380 -750 L -410 -735 L -380 -720 L -380 -730 Z" fill="blue"/>
+      </g>
+      <g id="Graphic_242">
+        <path d="M 70 -660 L 70 -670 L -270 -670 L -270 -680 L -300 -665 L -270 -650 L -270 -660 Z" fill="red"/>
+      </g>
+      <g id="Graphic_249">
+        <path d="M -890 -910 L -890 -920 L -840 -920 L -840 -930 L -810 -915 L -840 -900 L -840 -910 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_149">
+        <title>Laptop Chromebook</title>
+        <path d="M -946.4706 -866.4706 L -946.4706 -990 L -1111.1765 -990 L -1111.1765 -866.4706 L -1127.647 -866.4706 L -1127.647 -850 L -930 -850 L -930 -866.4706 L -946.4706 -866.4706 Z M -1012.353 -866.4706 L -1045.2941 -866.4706 L -1045.2941 -874.7059 L -1012.353 -874.7059 L -1012.353 -866.4706 Z M -962.9412 -891.1765 L -1094.7059 -891.1765 L -1094.7059 -973.5294 L -962.9412 -973.5294 L -962.9412 -891.1765 Z" fill="black"/>
+      </g>
+      <g id="Group_252">
+        <g id="Graphic_256">
+          <rect x="100" y="-740" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_255">
+          <rect x="120" y="-740" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_254">
+          <rect x="140" y="-740" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_253">
+          <rect x="160" y="-740" width="10" height="10" fill="black"/>
+        </g>
+      </g>
+      <g id="Group_257">
+        <g id="Graphic_261">
+          <rect x="100" y="-680" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_260">
+          <rect x="120" y="-680" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_259">
+          <rect x="140" y="-680" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_258">
+          <rect x="160" y="-680" width="10" height="10" fill="black"/>
+        </g>
+      </g>
+      <g id="Group_262">
+        <g id="Graphic_266">
+          <rect x="100" y="-660" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_265">
+          <rect x="120" y="-660" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_264">
+          <rect x="140" y="-660" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_263">
+          <rect x="160" y="-660" width="10" height="10" fill="black"/>
+        </g>
+      </g>
+      <g id="Group_267">
+        <g id="Graphic_271">
+          <rect x="100" y="-800" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_270">
+          <rect x="120" y="-800" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_269">
+          <rect x="140" y="-800" width="10" height="10" fill="black"/>
+        </g>
+        <g id="Graphic_268">
+          <rect x="160" y="-800" width="10" height="10" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_272">
+        <path d="M 200 -800 L 200 -810 L 250 -810 L 250 -820 L 280 -805 L 250 -790 L 250 -800 Z" fill="red"/>
+      </g>
+      <g id="Graphic_274">
+        <path d="M 370 -800 L 370 -810 L 420 -810 L 420 -820 L 450 -805 L 420 -790 L 420 -800 Z" fill="red"/>
+      </g>
+      <g id="Graphic_275">
+        <path d="M 550 -800 L 550 -810 L 600 -810 L 600 -820 L 630 -805 L 600 -790 L 600 -800 Z" fill="red"/>
+      </g>
+      <g id="Graphic_278">
+        <path d="M 700 -800 L 700 -810 L 750 -810 L 750 -820 L 780 -805 L 750 -790 L 750 -800 Z" fill="red"/>
+      </g>
+      <g id="Graphic_279">
+        <path d="M 780 -660 L 780 -670 L 730 -670 L 730 -680 L 700 -665 L 730 -650 L 730 -660 Z" fill="red"/>
+      </g>
+      <g id="Graphic_284">
+        <path d="M 450 -660 L 450 -670 L 400 -670 L 400 -680 L 370 -665 L 400 -650 L 400 -660 Z" fill="red"/>
+      </g>
+      <g id="Graphic_283">
+        <rect x="310" y="-700" width="30" height="30" fill="black"/>
+        <text transform="translate(310 -691)" fill="white">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="white" x="6.99" y="8" xml:space="preserve">Ch1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_282">
+        <rect x="310" y="-660" width="30" height="30" fill="black"/>
+        <text transform="translate(315 -651)" fill="white">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="white" x="1.285" y="8" xml:space="preserve">Ch2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_285">
+        <path d="M 630 -660 L 630 -670 L 580 -670 L 580 -680 L 550 -665 L 580 -650 L 580 -660 Z" fill="red"/>
+      </g>
+      <g id="Graphic_286">
+        <path d="M 280 -660 L 280 -670 L 230 -670 L 230 -680 L 200 -665 L 230 -650 L 230 -660 Z" fill="red"/>
+      </g>
+      <g id="Group_316">
+        <g id="Graphic_235">
+          <rect x="-670" y="-990" width="550" height="160" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Group_144">
+          <g id="Graphic_41">
+            <rect x="-300" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_42">
+            <rect x="-280" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_43">
+            <rect x="-260" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_44">
+            <rect x="-240" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_45">
+            <rect x="-220" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_46">
+            <rect x="-200" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_47">
+            <rect x="-180" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_48">
+            <rect x="-160" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_56">
+            <rect x="-300" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_55">
+            <rect x="-280" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_54">
+            <rect x="-260" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_53">
+            <rect x="-240" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_52">
+            <rect x="-220" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_51">
+            <rect x="-200" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_50">
+            <rect x="-180" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_49">
+            <rect x="-160" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_64">
+            <rect x="-300" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_63">
+            <rect x="-280" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_62">
+            <rect x="-260" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_61">
+            <rect x="-240" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_60">
+            <rect x="-220" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_59">
+            <rect x="-200" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_58">
+            <rect x="-180" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_57">
+            <rect x="-160" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_72">
+            <rect x="-300" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_71">
+            <rect x="-280" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_70">
+            <rect x="-260" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_69">
+            <rect x="-240" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_68">
+            <rect x="-220" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_67">
+            <rect x="-200" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_66">
+            <rect x="-180" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_65">
+            <rect x="-160" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_80">
+            <rect x="-300" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_79">
+            <rect x="-280" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_78">
+            <rect x="-260" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_77">
+            <rect x="-240" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_76">
+            <rect x="-220" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_75">
+            <rect x="-200" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_74">
+            <rect x="-180" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_73">
+            <rect x="-160" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_88">
+            <rect x="-300" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_87">
+            <rect x="-280" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_86">
+            <rect x="-260" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_85">
+            <rect x="-240" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_84">
+            <rect x="-220" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_83">
+            <rect x="-200" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_82">
+            <rect x="-180" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_81">
+            <rect x="-160" y="-850" width="10" height="10" fill="black"/>
+          </g>
+        </g>
+        <g id="Group_173">
+          <g id="Graphic_169">
+            <rect x="-410" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_168">
+            <rect x="-390" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_167">
+            <rect x="-370" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_166">
+            <rect x="-350" y="-950" width="10" height="10" fill="black"/>
+          </g>
+        </g>
+        <g id="Group_176">
+          <g id="Graphic_224">
+            <rect x="-600" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_223">
+            <rect x="-580" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_222">
+            <rect x="-560" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_221">
+            <rect x="-540" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_220">
+            <rect x="-520" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_219">
+            <rect x="-500" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_218">
+            <rect x="-480" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_217">
+            <rect x="-460" y="-950" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_216">
+            <rect x="-600" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_215">
+            <rect x="-580" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_214">
+            <rect x="-560" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_213">
+            <rect x="-540" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_212">
+            <rect x="-520" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_211">
+            <rect x="-500" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_210">
+            <rect x="-480" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_209">
+            <rect x="-460" y="-930" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_208">
+            <rect x="-600" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_207">
+            <rect x="-580" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_206">
+            <rect x="-560" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_205">
+            <rect x="-540" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_204">
+            <rect x="-520" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_203">
+            <rect x="-500" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_202">
+            <rect x="-480" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_201">
+            <rect x="-460" y="-910" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_200">
+            <rect x="-600" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_199">
+            <rect x="-580" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_198">
+            <rect x="-560" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_197">
+            <rect x="-540" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_196">
+            <rect x="-520" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_195">
+            <rect x="-500" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_194">
+            <rect x="-480" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_193">
+            <rect x="-460" y="-890" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_192">
+            <rect x="-600" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_191">
+            <rect x="-580" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_190">
+            <rect x="-560" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_189">
+            <rect x="-540" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_188">
+            <rect x="-520" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_187">
+            <rect x="-500" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_186">
+            <rect x="-480" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_185">
+            <rect x="-460" y="-870" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_184">
+            <rect x="-600" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_183">
+            <rect x="-580" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_182">
+            <rect x="-560" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_181">
+            <rect x="-540" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_180">
+            <rect x="-520" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_179">
+            <rect x="-500" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_178">
+            <rect x="-480" y="-850" width="10" height="10" fill="black"/>
+          </g>
+          <g id="Graphic_177">
+            <rect x="-460" y="-850" width="10" height="10" fill="black"/>
+          </g>
+        </g>
+        <g id="Graphic_287">
+          <rect x="-670" y="-990" width="50" height="30" fill="black"/>
+          <text transform="translate(-665 -984.6)" fill="white">
+            <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="16" fill="white" x="4.6" y="13" xml:space="preserve">SOF</tspan>
+          </text>
+        </g>
+        <g id="Graphic_288">
+          <rect x="-600" y="-990" width="60" height="30" fill="black"/>
+          <text transform="translate(-595 -984.6)" fill="white">
+            <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="16" fill="white" x="2.768" y="13" xml:space="preserve">OUT 1</tspan>
+          </text>
+        </g>
+        <g id="Graphic_289">
+          <rect x="-410" y="-990" width="60" height="30" fill="black"/>
+          <text transform="translate(-405 -984.6)" fill="white">
+            <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="16" fill="white" x="8.536" y="13" xml:space="preserve">IN 3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_290">
+          <rect x="-300" y="-990" width="60" height="30" fill="black"/>
+          <text transform="translate(-295 -984.6)" fill="white">
+            <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="16" fill="white" x="8.696" y="13" xml:space="preserve">IN 2</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_292">
+        <path d="M 280 -730 L 280 -740 L 230 -740 L 230 -750 L 200 -735 L 230 -720 L 230 -730 Z" fill="blue"/>
+      </g>
+      <g id="Graphic_296">
+        <rect x="310" y="-750" width="30" height="30" fill="black"/>
+        <text transform="translate(310 -741)" fill="white">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="white" x="9.41" y="8" xml:space="preserve">Fb</tspan>
+        </text>
+      </g>
+      <g id="Graphic_298">
+        <rect x="310" y="-840" width="30" height="30" fill="black"/>
+        <text transform="translate(310 -831)" fill="white">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="white" x="6.99" y="8" xml:space="preserve">Ch1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_297">
+        <rect x="310" y="-800" width="30" height="30" fill="black"/>
+        <text transform="translate(315 -791)" fill="white">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="white" x="1.285" y="8" xml:space="preserve">Ch2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_300">
+        <rect x="650" y="-840" width="30" height="30" fill="black"/>
+        <text transform="translate(650 -831)" fill="white">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="white" x="6.99" y="8" xml:space="preserve">Ch1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_299">
+        <rect x="650" y="-800" width="30" height="30" fill="black"/>
+        <text transform="translate(655 -791)" fill="white">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="white" x="1.285" y="8" xml:space="preserve">Ch2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_302">
+        <rect x="650" y="-700" width="30" height="30" fill="black"/>
+        <text transform="translate(650 -691)" fill="white">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="white" x="6.99" y="8" xml:space="preserve">Ch1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_301">
+        <rect x="650" y="-660" width="30" height="30" fill="black"/>
+        <text transform="translate(655 -651)" fill="white">
+          <tspan font-family="Atkinson Hyperlegible Next" font-size="10" fill="white" x="1.285" y="8" xml:space="preserve">Ch2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_303">
+        <rect x="460" y="-680" width="80" height="30" stroke="black" stroke-linecap="square" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(470 -674.6)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="16" fill="black" x="11.584" y="13" xml:space="preserve">FIFO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_308">
+        <text transform="translate(180 -588.9)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="24" fill="black" x="12.236" y="19" xml:space="preserve">Device</tspan>
+        </text>
+      </g>
+      <g id="Graphic_309">
+        <text transform="translate(630 -587.8)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="24" fill="black" x="37.444" y="19" xml:space="preserve">Audio </tspan>
+          <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="24" fill="black" x="8.992" y="46.80001" xml:space="preserve">Converters</tspan>
+        </text>
+      </g>
+      <g id="Graphic_310">
+        <text transform="translate(-950 -788.9)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="24" fill="black" x="24.104" y="19" xml:space="preserve">Host</tspan>
+        </text>
+      </g>
+      <g id="Graphic_311">
+        <text transform="translate(-420 -1038.9)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Next" font-weight="bold" font-size="24" fill="black" x="3.788" y="19" xml:space="preserve"> μFrame</tspan>
+        </text>
+      </g>
+      <g id="Graphic_312">
+        <text transform="translate(625 -1055)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="0" y="10" xml:space="preserve">48000*256 = 12.288 MHz </tspan>
+        </text>
+      </g>
+      <g id="Line_314">
+        <path d="M 470 -780 L 470 -750 C 470 -738.9543 461.0457 -730 450 -730 L 400.9 -730" marker-end="url(#FilledArrow_Marker)" stroke="#0432ff" stroke-linecap="square" stroke-linejoin="round" stroke-dasharray="8.0,24.0" stroke-width="8"/>
+      </g>
+      <g id="Graphic_399">
+        <path d="M -830 -910 L -830 -920 L -880 -920 L -880 -930 L -910 -915 L -880 -900 L -880 -910 Z" fill="#333"/>
+      </g>
+      <g id="Graphic_400">
+        <text transform="translate(-290 -787)" fill="black">
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="8" xml:space="preserve">48 000 Hz / 8000 μframes/second = 6 samples/μframe</tspan>
+          <tspan font-family="Atkinson Hyperlegible Mono" font-size="10" fill="black" x="0" y="20.000004" xml:space="preserve">6 samples/μframe * 4 bytes/sample * 2 channels = 48 bytes/μframe</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

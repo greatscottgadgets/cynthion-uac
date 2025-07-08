@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="299.75 -540.25 520.5 160.5" width="520.5" height="160.5">
+  <defs/>
+  <g id="Descriptors" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>Descriptors</title>
+    <g id="Descriptors_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_326">
+        <g id="Graphic_4">
+          <title>Audio Subslot</title>
+          <rect x="300" y="-540" width="400" height="30" fill="#c0ffff"/>
+          <rect x="300" y="-540" width="400" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path">
+            <rect x="0" y="0" width="400" height="30" fill="#c0ffff"/>
+          </clipPath>
+          <text clip-path="url(#clip_path)" transform="translate(300 -540)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="5" y="18" xml:space="preserve">Configuration Descriptor</tspan>
+          </text>
+        </g>
+        <g id="Graphic_5">
+          <title>Audio Subslot</title>
+          <rect x="320" y="-470" width="400" height="30" fill="#c0ffff"/>
+          <rect x="320" y="-470" width="400" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_2">
+            <rect x="0" y="0" width="400" height="30" fill="#c0ffff"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_2)" transform="translate(320 -470)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Next" font-size="16" fill="black" x="5" y="18" xml:space="preserve">Interface Association Descriptor</tspan>
+          </text>
+        </g>
+        <g id="Graphic_7">
+          <title>Audio Subslot</title>
+          <rect x="320" y="-440" width="500" height="60" fill="white"/>
+          <rect x="320" y="-440" width="500" height="60" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_3">
+            <rect x="0" y="0" width="500" height="60" fill="white"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_3)" transform="translate(320 -440)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="15" xml:space="preserve">bInterfaceCount    = 3</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="29.400005" xml:space="preserve">bFunctionClass     = 1  # Audio</tspan>
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="43.80001" xml:space="preserve">bFunctionSubClass  = 0  # Unknown</tspan>
+          </text>
+        </g>
+        <g id="Graphic_25">
+          <title>Audio Subslot</title>
+          <rect x="300" y="-510" width="500" height="30" fill="white"/>
+          <rect x="300" y="-510" width="500" height="30" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <clipPath id="clip_path_4">
+            <rect x="0" y="0" width="500" height="30" fill="white"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_4)" transform="translate(300 -510)" fill="black">
+            <tspan font-family="Atkinson Hyperlegible Mono" font-size="12" fill="black" x="5" y="15" xml:space="preserve">bConfigurationValue = 1</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
